@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crear Alegre</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>david</title>
 </head>
 <body>
-    ><a href="{{ route('alegre.store') }}">hola</a>
+
+    @yield('content')
 
 </body>
 </html>
