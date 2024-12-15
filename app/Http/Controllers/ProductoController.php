@@ -25,7 +25,7 @@ class ProductoController extends Controller
     }
 
     /**
-     * Store a newly created resource in storage.
+     * Store a newly created resource in storage. contianuamoes
      */
     public function store(Request $request)
     {
